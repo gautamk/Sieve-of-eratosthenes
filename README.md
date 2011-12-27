@@ -18,4 +18,4 @@ The _generate_ method sets _prime_ numbered bits as **1** and _composite_ number
 So the _initilize_ method and then the _generate_ method have to be called before checking for primes. 
 
 
-
+Google code Repo : http://code.google.com/p/bit-twiddling-sieve-of-eratosthenes/
